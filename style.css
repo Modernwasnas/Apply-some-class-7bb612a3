@@ -31,3 +31,11 @@ th{
 .yellow {
 	background-color:lightyellow;
 }
+
+tbody {
+	cursor: pointer;
+}
+
+a:hover {
+    background: yellow;
+}
